@@ -10,8 +10,7 @@ namespace CRUDxml
     {
         static void Main(string[] args)
         {
-            int id = 0;
-
+            
         }
     }
 }
