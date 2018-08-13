@@ -21,14 +21,14 @@ namespace CRUDxml
                 "  <!DOCTYPE boardid> \n" + //con SYSTEM "" pero me sale un error extraño
                 "    <board> \n" +
                 "       <post> \n" +
-                "           <id>24.95</id> \n" +
-                "           <username>24.95</username> \n" +
-                "           <text>24.95</text> \n" +
+                "           <id>1</id> \n" +
+                "           <username>Ale</username> \n" +
+                "           <text>Probando</text> \n" +
                 "       </post> \n" +
                 "       <post> \n" +
-                "           <id>24.95</id> \n" +
-                "           <username>24.95</username> \n" +
-                "           <text>24.95</text> \n" +
+                "           <id>2</id> \n" +
+                "           <username>Charles</username> \n" +
+                "           <text>Testing</text> \n" +
                 "       </post> \n" +
                 "   </board>");
 
